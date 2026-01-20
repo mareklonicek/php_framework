@@ -1,9 +1,9 @@
 {
-  "name": "jeffreyway/demo",
+  "name": "mareklonicek/demo",
   "authors": [
     {
-      "name": "Jeffrey Way",
-      "email": "jeffrey@jeffrey-way.com"
+      "name": "mareklonicek",
+      "email": "mark.lonicek@seznam.cz"
     }
   ],
   "require": {
