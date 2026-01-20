@@ -1,7 +1,7 @@
 # 🚧 My Custom PHP Framework
 
 <p align="center">
-  <img src="assets/php_fram_logo.png" width="120" alt="Framework Icon">
+  <img src="public/assets/php_fram_logo.png" width="120" alt="Framework Icon">
 </p>
 
 <p align="center">
