@@ -23,7 +23,7 @@ This is my **personal custom PHP framework**, built for **learning, testing, and
 <ul>
   <li>Understand PHP internals</li>
   <li>Build MVC architecture</li>
-  <li>Custom routing & DI</li>
+  <li>Custom Routing & DI container & Middelware & Authentication</li>
   <li>No heavy frameworks</li>
 </ul>
 
