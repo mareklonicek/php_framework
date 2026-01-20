@@ -75,7 +75,7 @@ This is my **personal custom PHP framework**, built for **learning, testing, and
 
 ---
 
-## 📂 Project Philosophy
+## 📂 Project Modular Approach
 
 ```text
 Framework
