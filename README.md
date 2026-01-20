@@ -1,4 +1,4 @@
-# 💎 My Custom PHP Framework™
+# 💎 My Custom PHP Framework
 
 <p align="center">
   <img src="public/assets/php_fram_logo.png" width="1200" alt="Framework Icon">
