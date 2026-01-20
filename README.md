@@ -83,7 +83,7 @@ Framework
  │   ├─ Router
  │   ├─ Container
  │   └─ Kernel
- ├─ MVC
+ ├─ App
  │   ├─ Model
  │   ├─ View
  │   └─ Controller
