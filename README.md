@@ -91,7 +91,7 @@ Framework
      ├─ index.php
      └─ assets
 ```
-## Project Folders & Files Tree Structure
+## 🧩 Project Folders & Files Tree Structure
 
 ```
 ├── 📁 Core
