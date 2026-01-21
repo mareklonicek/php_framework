@@ -93,7 +93,7 @@ Framework
 
 ## Project Folders & Files Tree Structure
 
-```
+```text
 ├── 📁 Core
       ├── 📄 App.php
       ├── 📄 Authenticator.php
