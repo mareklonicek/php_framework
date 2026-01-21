@@ -75,7 +75,7 @@ This is my **personal custom PHP framework**, built for **learning, testing, and
 
 ---
 
-## 📂 Project Modular Approach
+## 🧩 Project Modular Approach
 
 ```
 Framework
@@ -91,7 +91,7 @@ Framework
      ├─ index.php
      └─ assets
 ```
-## 🧩 Project Folders & Files Tree Structure
+## 📂 Project Folders & Files Tree Structure
 
 ```
 ├── 📁 Core
