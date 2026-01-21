@@ -90,3 +90,85 @@ Framework
  └─ Public
      ├─ index.php
      └─ assets
+
+## Project Folders & Files Tree Structure
+
+```
+├── 📁 Core
+      ├── 📄 App.php
+      ├── 📄 Authenticator.php
+      ├── 📄 Container.php
+      ├── 📄 Database.php
+      ├── 📁 Middleware
+            ├── 📄 Authenticated.php
+            ├── 📄 Guest.php
+            └── 📄 Middleware.php
+      ├── 📄 Response.php
+      ├── 📄 Router.php
+      ├── 📄 Session.php
+      ├── 📄 ValidationException.php
+      ├── 📄 Validator.php
+      └── 📄 functions.php
+├── 📁 Http
+      ├── 📁 Forms
+            └── 📄 LoginForm.php
+      └── 📁 controllers
+            ├── 📄 about.php
+            ├── 📄 contact.php
+            ├── 📄 index.php
+            ├── 📁 notes
+                  ├── 📄 create.php
+                  ├── 📄 destroy.php
+                  ├── 📄 edit.php
+                  ├── 📄 index.php
+                  ├── 📄 show.php
+                  ├── 📄 store.php
+                  └── 📄 update.php
+            ├── 📁 registration
+                  ├── 📄 create.php
+                  └── 📄 store.php
+            └── 📁 session
+                  ├── 📄 create.php
+                  ├── 📄 destroy.php
+                  └── 📄 store.php
+├── 📄 bootstrap.php
+├── 📄 composer.json
+├── 📄 composer.lock
+├── 📄 config.php
+├── 📄 info.txt
+├── 📄 phpunit.xml
+├── 📁 public
+      ├── 📁 assets
+            └── 📄 php_fram_logo.png
+      ├── 📄 index.php
+      └── 📄 playground.php
+├── 📄 routes.php
+├── 📁 tests
+      ├── 📁 Feature
+            └── 📄 ReferralTest.php
+      ├── 📄 Pest.php
+      ├── 📄 TestCase.php
+      └── 📁 Unit
+            ├── 📄 ContainerTest.php
+            └── 📄 ValidatorTest.php
+├── 📁 views
+      ├── 📄 403.php
+      ├── 📄 404.php
+      ├── 📄 about.view.php
+      ├── 📄 contact.view.php
+      ├── 📄 index.view.php
+      ├── 📁 notes
+            ├── 📄 create.view.php
+            ├── 📄 edit.view.php
+            ├── 📄 index.view.php
+            └── 📄 show.view.php
+      ├── 📁 partials
+            ├── 📄 banner.php
+            ├── 📄 footer.php
+            ├── 📄 head.php
+            └── 📄 nav.php
+      ├── 📁 registration
+            └── 📄 create.view.php
+      └── 📁 session
+            └── 📄 create.view.php
+
