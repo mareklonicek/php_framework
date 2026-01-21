@@ -77,7 +77,7 @@ This is my **personal custom PHP framework**, built for **learning, testing, and
 
 ## 📂 Project Modular Approach
 
-```text
+```
 Framework
  ├─ Core
  │   ├─ Router
@@ -90,10 +90,10 @@ Framework
  └─ Public
      ├─ index.php
      └─ assets
-
+```
 ## Project Folders & Files Tree Structure
 
-```text
+```
 ├── 📁 Core
       ├── 📄 App.php
       ├── 📄 Authenticator.php
