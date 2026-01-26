@@ -8,7 +8,7 @@
   <b>Personal custom PHP framework</b><br>
   Experimental • Educational • From scratch
 </p>
-
+ 
 ---
 
 ## 📌 About
