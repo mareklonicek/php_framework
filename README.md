@@ -18,7 +18,7 @@ This is my **personal custom PHP framework**, built for **learning, testing, and
 <table>
 <tr>
 <td>
-
+ 
 ### 🎯 Goals
 <ul>
   <li>Understand PHP internals</li>
