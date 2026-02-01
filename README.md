@@ -7,7 +7,7 @@
 <p align="center">
   <b>Personal custom PHP framework</b><br>
   Experimental • Educational • From scratch
-</p>
+</p> 
    
 --- 
 
